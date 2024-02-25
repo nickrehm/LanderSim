@@ -4,7 +4,7 @@ This is a physics-based simulation of a thrust vectored lunar lander with tons o
 
 To run, clone this repo and run: `python landerSim.py`
 
-Or if you are scared of running python but not scared of random .EXEs on the internet, there is an executable located in the /dist folder of this repo that will launch the application with no python-fuss required (Windows only, sorry).
+Or if you are scared of running python but not scared of random .EXEs on the internet, there is an executable located in the releases tab of this page that will launch the application with no python-fuss required (Windows only, sorry).
 
 <div style="text-align:center">
     <img src="images/tippyMcTipFace.PNG" alt="Alt text" title="Tippy">
